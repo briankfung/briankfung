@@ -2,12 +2,20 @@
 
 **Clinician-Engineer · Founder · Clinical AI, Informatics, Interoperability & Public Policy**
 
-I'm a residency-trained informatics pharmacist and certified nursing assistant who designs, builds and ships clinical AI products. I founded haau3 in November 2025, launched Unscripted Rx in August 2025, and have run OpenClinTech since 2023. Before that I was a Staff Clinical Informatics Data Architect at Verily and a Clinical Informatics Pharmacist at Mayo Clinic, where I modernized clinical systems across 80 hospitals and clinics. As a graduate intern at the Office of the National Coordinator for Health IT, I contributed to the electronic prescribing sections of the 21st Century Cures Act Final Rule.
+I'm a residency-trained informatics pharmacist who designs, builds and ships clinical AI products. I was a Staff Clinical Informatics Data Architect at Verily and a Clinical Informatics Pharmacist at Mayo Clinic, where I modernized clinical systems across 80 hospitals and clinics. As a graduate intern at the Office of the National Coordinator for Health IT, I contributed to the electronic prescribing sections of the 21st Century Cures Act Final Rule. Since 2023 I've also run OpenClinTech, which trains clinician-engineers.
+
+## My story
+
+In March 2025 I took family medical leave from Verily to care for my grandmother, and in June 2025 I resigned to care for her full time. That year shaped everything I'm building now.
+
+I launched Unscripted Rx in August 2025, hoping it could earn enough to let me keep caring for her. In November 2025 I founded haau3, an app for caregivers, because I needed one myself.
+
+My grandmother passed away in January 2026. Instead of going back to a full-time job, I went all in on haau3 as a free app that helps other caregivers, and in June 2026 I launched the haau3 platform to fund it. For the rest of 2026 I'm betting on myself, building haau3 toward sustainability.
 
 ## Products
 
-- **[haau3](https://haau3.com)**: FHIR-native, AI-powered care management that helps caregivers focus on the human side of care. Generally available and listed in the CMS Medicare App Library.
-- **[haau3 platform](https://platform.haau3.com)**: the APIs behind haau3, including a scheduling slot aggregator built on HL7 SMART Scheduling Links and a FHIR terminology service.
+- **[haau3](https://haau3.com)**: a free, FHIR-native, AI-powered companion that brings a loved one's health records together so caregivers can focus on the human side of care. Generally available and listed in the CMS Medicare App Library.
+- **[haau3 platform](https://platform.haau3.com)**: the APIs behind haau3, offered to other organizations to fund it, including a scheduling slot aggregator built on HL7 SMART Scheduling Links and a FHIR terminology service.
 - **[Unscripted Rx](https://www.unscripted-rx.com)**: pharmacy residency and workforce discovery with 30,000+ connected entities.
 - **[OpenClinTech](https://openclintech.com)**: courses and a live bootcamp that train clinician-engineers in HL7 FHIR, clinical informatics and AI in healthcare.
 - **[Ovant](https://www.ovant.org)**: a job search tool that learns your career once, then writes a resume for each role from what you have actually done.
